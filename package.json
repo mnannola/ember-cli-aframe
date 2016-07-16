@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-aframe",
   "version": "0.0.1",
-  "description": "A thin ember wrapper around the A-Frame VR framework",
+  "description": "A thin ember addon wrapper around the A-Frame VR framework",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -53,6 +53,7 @@
     "ember-cli-htmlbars": "^1.0.3"
   },
   "ember-addon": {
-    "configPath": "tests/dummy/config"
+    "configPath": "tests/dummy/config",
+    "demoURL": "https://mnannola.github.io/ember-cli-aframe/"
   }
 }

@@ -12,7 +12,7 @@ Since ember-cli-aframe is an ember addon, you should install the addon into an e
 *  and go to http://localhost:4200.
 
 ## Basic Usage
-This addon includes ember components which are thin wrappers around a-frame components.
+This addon includes ember components which are thin wrappers around a-frame components.  To see the components in action, head on over to the [Demo Page](https://mnannola.github.io/ember-cli-aframe/).  You can also use the standard a-frame html syntax since this addon imports the a-frame library.
 
 ## Running Tests
 
