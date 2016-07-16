@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-aframe",
   "version": "0.0.1",
-  "description": "A thin wrapper around the A-Frame VR framework",
+  "description": "A thin ember wrapper around the A-Frame VR framework",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/mnannola/ember-cli-aframe",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -38,7 +38,14 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "aframe",
+    "vr",
+    "webvr",
+    "3d",
+    "three",
+    "ember",
+    "component"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6",
