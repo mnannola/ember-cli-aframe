@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-aframe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A thin ember addon wrapper around the A-Frame VR framework",
   "directories": {
     "doc": "doc",
