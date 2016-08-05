@@ -1,0 +1,8 @@
+{{#ember-a-scene}}
+  <a-assets>
+    <img id="enemy-sprite" crossorigin="" src="https://upload.wikimedia.org/wikipedia/en/6/69/Ember.js_Logo_and_Mascot.png">
+  </a-assets>
+  <a-image look-at="#player" src="#enemy-sprite" transparent="true" position="0 1.8 -4"></a-image>
+  {{ember-a-camera id="player" position="0 1.8 0"}}
+  {{ember-a-sky color="#FFFBF5"}}
+{{/ember-a-scene}}

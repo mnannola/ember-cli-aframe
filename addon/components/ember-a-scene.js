@@ -3,5 +3,7 @@ import EmberAEntity from './ember-a-entity';
 
 export default EmberAEntity.extend({
   tagName: 'a-scene',
-  layout
+  layout,
+  canvas: null,
+  attributeBindings: ['canvas']
 });

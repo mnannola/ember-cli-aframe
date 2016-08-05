@@ -1,0 +1,22 @@
+#index-container {
+  background: #FFFBF5;
+  color: #865931;
+  font-family: monospace;
+  font-size: 20px;
+  padding: 10px 20px;
+  height: 100vh;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+a {
+  color: #dd6a58;
+  display: block;
+  padding: 15px 0;
+}
+
+a:active, a:focus, a:hover {
+    color: #c13c27;
+}
